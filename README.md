@@ -1,3 +1,3 @@
 # digital-core
 digital-core
-This is a Master branch Copy
+This is a QA branch Copy
